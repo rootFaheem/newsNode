@@ -1,0 +1,26 @@
+{
+  "name": "newsnode",
+  "version": "1.0.0",
+  "description": "Fetching top news from Time.com using webscraping ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  },
+  "keywords": [
+    "Web",
+    "Scraping",
+    "NodeJS",
+    "ExpressJs",
+    "CheerioJS",
+    "Puppeteer",
+    "Request-Promise"
+  ],
+  "author": "faheem",
+  "license": "ISC"
+}
